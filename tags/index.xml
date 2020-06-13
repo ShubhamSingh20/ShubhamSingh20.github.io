@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Shubham Singh</title>
+    <link>http://shubham-singh.me/tags/</link>
+    <description>Recent content in Tags on Shubham Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2020 19:12:26 +0530</lastBuildDate>
+    
+	<atom:link href="http://shubham-singh.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>django</title>
+      <link>http://shubham-singh.me/tags/django/</link>
+      <pubDate>Sun, 05 Jan 2020 19:12:26 +0530</pubDate>
+      
+      <guid>http://shubham-singh.me/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>http://shubham-singh.me/tags/project/</link>
+      <pubDate>Sun, 05 Jan 2020 19:12:26 +0530</pubDate>
+      
+      <guid>http://shubham-singh.me/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>http://shubham-singh.me/tags/python/</link>
+      <pubDate>Sun, 05 Jan 2020 19:12:26 +0530</pubDate>
+      
+      <guid>http://shubham-singh.me/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vue</title>
+      <link>http://shubham-singh.me/tags/vue/</link>
+      <pubDate>Sun, 05 Jan 2020 19:12:26 +0530</pubDate>
+      
+      <guid>http://shubham-singh.me/tags/vue/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

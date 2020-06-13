@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://shubham-singh.me/projects/dgtonline/</loc>
+    <lastmod>2020-01-05T19:12:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shubham-singh.me/tags/django/</loc>
+    <lastmod>2020-01-05T19:12:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shubham-singh.me/tags/project/</loc>
+    <lastmod>2020-01-05T19:12:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shubham-singh.me/projects/</loc>
+    <lastmod>2020-01-05T19:12:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shubham-singh.me/tags/python/</loc>
+    <lastmod>2020-01-05T19:12:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shubham-singh.me/</loc>
+    <lastmod>2020-01-05T19:12:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shubham-singh.me/tags/</loc>
+    <lastmod>2020-01-05T19:12:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shubham-singh.me/tags/vue/</loc>
+    <lastmod>2020-01-05T19:12:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shubham-singh.me/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://shubham-singh.me/categories/</loc>
+  </url>
+  
+</urlset>
