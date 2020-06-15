@@ -78,7 +78,7 @@ if (!doNotTrack) {
 
         
 <div class="section" id="content">
-    Sat Jun 13, 2020 &#183; 1645 words
+    Sat Jun 13, 2020 &#183; 1665 words
     
     <div class="tag-container">
         
@@ -131,7 +131,7 @@ if (!doNotTrack) {
 
 <p>The challenge was to exploit a web page containing an HTML form, which would take text as user input and render a new web page with the user input as a parameter. The tech stack used for backend was <a href="https://flask.palletsprojects.com/en/1.1.x/">Flask</a> framework with <a href="https://jinja.palletsprojects.com/en/2.11.x/">Jinja2</a> for rendering template.</p>
 
-<p>Below you can find the replica of that web page (pretty simple as you can see) that I have created, you can find the source code here.
+<p>Below you can find the replica of that web page (pretty simple as you can see) that I have created, you can find the source code <a href="https://github.com/ShubhamSingh20/Shuham.me_post/tree/master/SSTI">here</a>.
 <img src="/ssti/demo.gif" alt="" title="Demo application" /></p>
 
 <p>Now let&rsquo;s look at the code and find out how this program functions. First we will look at all the modules we are using.</p>
@@ -309,11 +309,11 @@ os.system('touch attack.sh')
 
 <p><img src="/ssti/ssti_attack.PNG" alt="" /></p>
 
-<p>As we can see, our injection successfully created shell file. We can do a lot more stuff, from building more sophisticated files on the server, to deleting server data to what not.</p>
+<p>As we can see, our injection successfully created a shell file and executed it as well. With RCE we can achieve a lot more than just creating and executing a simple list command. We can basically hi-jack the entire functioning of the application, leak database info, etc.</p>
 
 <h1 id="conclusion">Conclusion</h1>
 
-<p>We created and successfully executed a server side template injection in Jinja and python. Such injection s are also possible in other programming languages and frameworks as well. To safegurd from search attacks make sure to <strong>sanitize user input</strong> and follow best practices in whatever framework you are working in.</p>
+<p>We created and successfully executed a server side template injection in Jinja and python. Such injections are also possible in other programming languages and frameworks as well. To safegurd from such attacks make sure to <strong>sanitize user input</strong> and follow best practices in whatever framework you are working in.</p>
 
 <p>Techonolgies are not exploited, what&rsquo;s actually exploited is the laziness and sloppiness of the developer.</p>
 
@@ -326,6 +326,8 @@ os.system('touch attack.sh')
 
 <li><p><a href="https://portswigger.net/research/server-side-template-injection">Portswigger blog</a></p></li>
 </ul>
+
+<p><strong>Peace was never an option 🦆🔪</strong></p>
 
 </div>
 <script src="https://utteranc.es/client.js"
