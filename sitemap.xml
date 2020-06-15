@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://shubham-singh.me/tags/blog/</loc>
+    <loc>http://shubham-singh.me/posts/</loc>
     <lastmod>2020-06-13T13:13:37+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://shubham-singh.me/posts/</loc>
+    <loc>http://shubham-singh.me/tags/security/</loc>
     <lastmod>2020-06-13T13:13:37+05:30</lastmod>
   </url>
   
@@ -23,12 +23,17 @@
   </url>
   
   <url>
-    <loc>http://shubham-singh.me/tags/story/</loc>
+    <loc>http://shubham-singh.me/tags/</loc>
     <lastmod>2020-06-13T13:13:37+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://shubham-singh.me/tags/</loc>
+    <loc>http://shubham-singh.me/tags/vulnerability/</loc>
+    <lastmod>2020-06-13T13:13:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shubham-singh.me/tags/web/</loc>
     <lastmod>2020-06-13T13:13:37+05:30</lastmod>
   </url>
   

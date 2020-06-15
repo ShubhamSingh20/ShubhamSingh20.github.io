@@ -12,20 +12,29 @@
     
     
     <item>
-      <title>blog</title>
-      <link>http://shubham-singh.me/tags/blog/</link>
+      <title>security</title>
+      <link>http://shubham-singh.me/tags/security/</link>
       <pubDate>Sat, 13 Jun 2020 13:13:37 +0530</pubDate>
       
-      <guid>http://shubham-singh.me/tags/blog/</guid>
+      <guid>http://shubham-singh.me/tags/security/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>story</title>
-      <link>http://shubham-singh.me/tags/story/</link>
+      <title>vulnerability</title>
+      <link>http://shubham-singh.me/tags/vulnerability/</link>
       <pubDate>Sat, 13 Jun 2020 13:13:37 +0530</pubDate>
       
-      <guid>http://shubham-singh.me/tags/story/</guid>
+      <guid>http://shubham-singh.me/tags/vulnerability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>http://shubham-singh.me/tags/web/</link>
+      <pubDate>Sat, 13 Jun 2020 13:13:37 +0530</pubDate>
+      
+      <guid>http://shubham-singh.me/tags/web/</guid>
       <description></description>
     </item>
     

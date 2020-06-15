@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>Server Side Template Injection</title>
+      <title>Server Side Template Injection with Flask and Jinja2</title>
       <link>http://shubham-singh.me/posts/server-side-template-injection/</link>
       <pubDate>Sat, 13 Jun 2020 13:13:37 +0530</pubDate>
       
       <guid>http://shubham-singh.me/posts/server-side-template-injection/</guid>
-      <description></description>
+      <description>Introduction Last week I took part in a CTF, and one of the problems from the &amp;ldquo;Web&amp;rdquo; category seems pretty intriguing to me. Although I was able to get the Flag, but couldn&amp;rsquo;t submit the flag in time, so no points for me 😔.
+The interesting thing about this problem was, that the technology which needed to be exploited was something I am pretty familiar with and had a lot of experience in, but still, even after working with that tech stack for years, I was unaware of this vulnerability.</description>
     </item>
     
     <item>
