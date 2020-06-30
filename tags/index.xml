@@ -74,5 +74,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>automation</title>
+      <link>http://shubham-singh.me/tags/automation/</link>
+      <pubDate>Wed, 11 Dec 2019 16:28:31 +0530</pubDate>
+      
+      <guid>http://shubham-singh.me/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>http://shubham-singh.me/tags/golang/</link>
+      <pubDate>Wed, 11 Dec 2019 16:28:31 +0530</pubDate>
+      
+      <guid>http://shubham-singh.me/tags/golang/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
