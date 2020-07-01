@@ -40,6 +40,16 @@ The interesting thing about this problem was, that the technology which needed t
     </item>
     
     <item>
+      <title>Codechef Hackathon Submission: NoobCommender</title>
+      <link>http://shubham-singh.me/projects/noobcommender/</link>
+      <pubDate>Sat, 01 Dec 2018 13:07:23 +0530</pubDate>
+      
+      <guid>http://shubham-singh.me/projects/noobcommender/</guid>
+      <description>Introduction Developed a Web app with Oauth2 based REST API of Codechef, a competitive programming website. The web app works as a recommendation engine that consumes the REST API and recommends new questions to the user according to their previously solved problems on the platform.
+Recommendation of new questions is done with the help of a K-means classifier which works as a tag-based recommendation model. The web app also uses an asynchronous task queue to update all the required user tokens and recommendation list for an user.</description>
+    </item>
+    
+    <item>
       <title>About Me</title>
       <link>http://shubham-singh.me/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

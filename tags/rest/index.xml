@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>django on Shubham Singh</title>
-    <link>http://shubham-singh.me/tags/django/</link>
-    <description>Recent content in django on Shubham Singh</description>
+    <title>REST on Shubham Singh</title>
+    <link>http://shubham-singh.me/tags/rest/</link>
+    <description>Recent content in REST on Shubham Singh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2020 19:12:26 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 13:07:23 +0530</lastBuildDate>
     
-	<atom:link href="http://shubham-singh.me/tags/django/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://shubham-singh.me/tags/rest/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>DGTOnline (Freelance)</title>
-      <link>http://shubham-singh.me/projects/dgtonline/</link>
-      <pubDate>Sun, 05 Jan 2020 19:12:26 +0530</pubDate>
-      
-      <guid>http://shubham-singh.me/projects/dgtonline/</guid>
-      <description>Introduction One of my freelance projects, DGTOnline is a platform for a Mumbai based competitive exam coaching center. The main purpose of this platform was to provide a simple and easy to use interface that could help the faculty at the institution to easily conduct test with more accuracy and more frequency. At the same time the platform would help students to get accustomed to web based testing portals for these competitive examinations.</description>
-    </item>
     
     <item>
       <title>Codechef Hackathon Submission: NoobCommender</title>
