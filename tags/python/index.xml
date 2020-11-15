@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>python on Shubham Singh</title>
-    <link>http://shubham-singh.me/tags/python/</link>
+    <link>https://shubhamsingh20.github.io/tags/python/</link>
     <description>Recent content in python on Shubham Singh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jan 2020 19:12:26 +0530</lastBuildDate>
     
-	<atom:link href="http://shubham-singh.me/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shubhamsingh20.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DGTOnline (Freelance)</title>
-      <link>http://shubham-singh.me/projects/dgtonline/</link>
+      <link>https://shubhamsingh20.github.io/projects/dgtonline/</link>
       <pubDate>Sun, 05 Jan 2020 19:12:26 +0530</pubDate>
       
-      <guid>http://shubham-singh.me/projects/dgtonline/</guid>
+      <guid>https://shubhamsingh20.github.io/projects/dgtonline/</guid>
       <description>Introduction One of my freelance projects, DGTOnline is a platform for a Mumbai based competitive exam coaching center. The main purpose of this platform was to provide a simple and easy to use interface that could help the faculty at the institution to easily conduct test with more accuracy and more frequency. At the same time the platform would help students to get accustomed to web based testing portals for these competitive examinations.</description>
     </item>
     
     <item>
       <title>Codechef Hackathon Submission: NoobCommender</title>
-      <link>http://shubham-singh.me/projects/noobcommender/</link>
+      <link>https://shubhamsingh20.github.io/projects/noobcommender/</link>
       <pubDate>Sat, 01 Dec 2018 13:07:23 +0530</pubDate>
       
-      <guid>http://shubham-singh.me/projects/noobcommender/</guid>
+      <guid>https://shubhamsingh20.github.io/projects/noobcommender/</guid>
       <description>Introduction Developed a Web app with Oauth2 based REST API of Codechef, a competitive programming website. The web app works as a recommendation engine that consumes the REST API and recommends new questions to the user according to their previously solved problems on the platform.
 Recommendation of new questions is done with the help of a K-means classifier which works as a tag-based recommendation model. The web app also uses an asynchronous task queue to update all the required user tokens and recommendation list for an user.</description>
     </item>
